@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam550
 - 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning Node.js,react
+- 🌱 I’m currently learning Node.js,react.js,mongoDB
 - 💞️ I’m looking to collaborate on some open source project
 - 📫 How to reach me shivamsingh51609@gmail.com
 
