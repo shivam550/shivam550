@@ -8,7 +8,7 @@
 shivam550/shivam550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Tech Know
+<h1>Tech Know</h1>
 
 
 ![icons8-react-96](https://user-images.githubusercontent.com/82259778/200063935-c5178ac6-d82e-47f4-b9cc-55966555868f.png)
@@ -21,5 +21,8 @@ Tech Know
 ![icons8-python-96](https://user-images.githubusercontent.com/82259778/200065049-27f70aed-5eac-4883-8cd2-28c478b694bf.png)
 ![icons8-node-js-96](https://user-images.githubusercontent.com/82259778/200065141-ad00c990-ee57-4c0f-8156-a0d3e9f5c949.png)
 ![icons8-visual-studio-code-2019-96](https://user-images.githubusercontent.com/82259778/200065161-d8f98d56-8917-4dfa-9b99-739854564bb4.png)
+![icons8-linux-96](https://user-images.githubusercontent.com/82259778/200115043-c4173fb2-384b-499b-9de2-3ebc5e73c3f9.png)
+
+
 
 
