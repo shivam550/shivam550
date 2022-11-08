@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Tech Know</h1>
 
 
+
 ![icons8-react-96](https://user-images.githubusercontent.com/82259778/200063935-c5178ac6-d82e-47f4-b9cc-55966555868f.png)
 ![icons8-javascript-96](https://user-images.githubusercontent.com/82259778/200064034-741439f0-2ec6-4a2c-9dd9-a59220006cf3.png)
 ![icons8-html-5-96](https://user-images.githubusercontent.com/82259778/200064068-1f60d885-ccc6-4b5b-a1b6-8d3fdd150624.png)
