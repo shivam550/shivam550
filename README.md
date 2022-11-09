@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @shivam550
-- 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning Node.js,react.js,mongoDB
-- 💞️ I’m looking to collaborate on some open source project
-- 📫 How to reach me shivamsingh51609@gmail.com
+ <img align="left" width="600" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU"><br><br><br>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  👋 Hi, I’m @shivam550
+  👀 I’m interested in web technologies.
+  🌱 I’m currently learning Node.js,react.js,mongoDB
+  💞️ I’m looking to collaborate on some open source project
+  📫 How to reach me shivamsingh51609@gmail.com
 
 <!---
 shivam550/shivam550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +33,10 @@ You can click the Preview link to take a look at your changes.
 ![icons8-node-js-96](https://user-images.githubusercontent.com/82259778/200065141-ad00c990-ee57-4c0f-8156-a0d3e9f5c949.png)
 ![icons8-visual-studio-code-2019-96](https://user-images.githubusercontent.com/82259778/200065161-d8f98d56-8917-4dfa-9b99-739854564bb4.png)
 ![icons8-linux-96](https://user-images.githubusercontent.com/82259778/200115043-c4173fb2-384b-499b-9de2-3ebc5e73c3f9.png)
+
+
+
+
 
 
 
