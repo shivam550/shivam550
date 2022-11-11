@@ -1,12 +1,8 @@
- <img align="left" width="600" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU"><br><br><br>
- 
-  
-  
+<h3> 👋 Hi, I am Shivam singh </h3>
   
   
   
  
-  👋 Hi, I’m @shivam550
   
   👀 I’m interested in web technologies.
   
