@@ -4,7 +4,7 @@
   
  
   
-  👀 I’m interested in web technologies.
+  👀 I’m interested in web technologies & Linux.
   
   🌱 I’m currently learning Node.js,react.js,mongoDB
   
